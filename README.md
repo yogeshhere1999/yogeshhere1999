@@ -15,3 +15,4 @@
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
+[![Yogesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=yogeshhere1999)](https://github.com/yogeshhere1999/github-readme-stats)
